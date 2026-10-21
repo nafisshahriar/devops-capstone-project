@@ -1,6 +1,6 @@
 ---
 name: User Story
-description: Template for creating new agile user stories
+about: Template for creating new agile user stories
 title: 'User Story: [Brief Summary]'
 labels: ['user-story']
 ---
